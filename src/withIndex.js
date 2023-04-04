@@ -1,0 +1,1 @@
+alert('with index js');
