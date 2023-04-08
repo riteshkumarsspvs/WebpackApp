@@ -1,0 +1,1 @@
+alert('shared.js');
